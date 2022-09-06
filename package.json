@@ -1,0 +1,14 @@
+{
+  "name": "example-node-app",
+  "version": "1.0.0",
+  "description": "example node app for aws learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
